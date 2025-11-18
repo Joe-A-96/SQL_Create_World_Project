@@ -74,3 +74,4 @@ ORDER BY
   gdp;
 
 ```
+<img width="703" height="714" alt="image" src="https://github.com/user-attachments/assets/f055808d-2995-476a-89d8-e5df8330245a" />
