@@ -1,5 +1,3 @@
-# SQL_Create_World_Project
-
 ## 🌎 World Database Analysis & Geographical Data Extraction (SQL)
 
 **A comprehensive SQL project focused on querying and analyzing global demographic, economic, and geographical data from the standard World Database (covering countries, cities, and languages).**
